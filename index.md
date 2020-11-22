@@ -1,2 +1,2 @@
-영상처리공부 
+1. Machine Learning
 
