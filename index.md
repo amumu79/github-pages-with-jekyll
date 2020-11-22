@@ -1,4 +1,4 @@
-# junwon's image processing
+# jun's image processing
 
 영상처리공부 
 
